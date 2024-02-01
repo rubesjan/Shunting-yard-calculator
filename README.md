@@ -19,7 +19,7 @@ for usage example see:<br>
 examples/var.txt
 
 to see documentation use commands:<br>
-make doc;
+make doc<br>
 firefox ./doc/index.html
 
 to delete temporary files use command:<br>
