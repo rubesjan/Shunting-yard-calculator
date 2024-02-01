@@ -1,4 +1,4 @@
-TARGET=rubesja5
+TARGET=calc
 CXX=g++
 LD=g++
 CXXFLAGS=-std=c++17 -Wall -pedantic -O2
