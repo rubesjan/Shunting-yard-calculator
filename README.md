@@ -15,12 +15,12 @@ Numbers are also polymorphic. Numbers are stored based on their density of digit
 to run the application use command:
 make run
 
-for usage example see:
+for usage example see:<br>
 examples/var.txt
 
-to see documentation use commands:
-make doc
+to see documentation use commands:<br>
+make doc;
 firefox ./doc/index.html
 
-to delete temporary files use command:
+to delete temporary files use command:<br>
 make clean
