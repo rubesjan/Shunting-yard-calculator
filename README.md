@@ -2,7 +2,7 @@
 
 With Factorial and Round functions. e.g. Round(20.5) or Factorial(100).
 
-Offers power '^' (exponent must be non-negative integer), modulus '%', integer division '/', multiplication '*', addition '+' and substraction '-'.
+Offers power '^', modulus '%', integer division '/', multiplication '*', addition '+' and substraction '-'.
 
 Mathematical expression must be in infix notation, operations excluding functions can be nested with parenthesis.
 
@@ -15,7 +15,10 @@ Numbers are also polymorphic. Numbers are stored based on their density of digit
 to run the application use command:
 make run
 
-to see documentation use command:
+for usage example see:
+examples/var.txt
+
+to see documentation use commands:
 make doc
 firefox ./doc/index.html
 
